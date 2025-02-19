@@ -1,0 +1,26 @@
+{
+  "name": "image-optimizerjs",
+  "version": "1.0.0",
+  "description": "simple sharp-based library to optimize images",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CuteStoryteller/image-optimizerjs.git"
+  },
+  "author": "CuteStoryteller",
+  "keywords": [
+    "image",
+    "optimize",
+    "download",
+    "sharp"
+  ],
+  "bugs": {
+    "url": "https://github.com/CuteStoryteller/image-optimizerjs/issues"
+  },
+  "homepage": "https://github.com/CuteStoryteller/image-optimizerjs#readme",
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "sharp": "^0.33.5"
+  }
+}
