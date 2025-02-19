@@ -1,5 +1,5 @@
 {
-  "name": "image-optimizerjs",
+  "name": "@cute-storyteller/image-optimizerjs",
   "version": "1.0.0",
   "description": "simple sharp-based library to optimize images",
   "main": "lib/index.js",
